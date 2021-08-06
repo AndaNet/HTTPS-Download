@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on using GANs on Class Imbalance Problems. Wish me luck.
+- 🔭 I’m currently working on using GANs on Class Imbalance Problems.
 - 👯 I’m looking to collaborate on anything AI
 
 -->
